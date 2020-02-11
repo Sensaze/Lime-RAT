@@ -1,4 +1,5 @@
-# Outdated. Archive it instead of delete it
+# Lime-RAT Latest Version.
+# I will be uploading a clean build soon.
 
 ---
 
